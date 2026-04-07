@@ -1,2 +1,2 @@
 # SAC-Classification
-Download and open the Jupyter notebook and import the csv. 
+Download the Jupyter notebook and import the csv. 
